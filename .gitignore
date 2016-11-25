@@ -15,6 +15,10 @@
 *.userprefs
 
 
+# JetBrains IDEs
+.idea/
+
+
 # Visual Studio Files
 .vs/
 [Bb]in/
